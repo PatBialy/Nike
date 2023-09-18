@@ -2,6 +2,7 @@ import bigShoe1 from "./big-shoe1.png";
 import bigShoe2 from "./big-shoe2.png";
 import bigShoe3 from "./big-shoe3.png";
 import shoe from "./shoe.png";
+import hero from "./hero.jpg";
 
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
@@ -30,6 +31,7 @@ export {
   customer1,
   heroi,
   shoe,
+  hero,
   customer2,
   footerLogo,
   headerLogo,
